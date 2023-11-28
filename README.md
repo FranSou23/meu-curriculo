@@ -15,6 +15,9 @@
 ## Cursos Livres
 - Excel, Senac Americana [24h]
 - Excel Avançado, Senac mericana [36h]
+- Primeiro Socorros
+- Brigadista
+- Secretariado
 
 ## Tecnologias
 - HTML
